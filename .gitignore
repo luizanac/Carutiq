@@ -3,14 +3,14 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
+.idea/
+
 # User-specific files
 *.rsuser
 *.suo
 *.user
 *.userosscache
 *.sln.docstates
-
-.idea/
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
@@ -422,7 +422,6 @@ test-results/
 
 # Mac bundle stuff
 *.dmg
-*.app
 
 # content below from: https://github.com/github/gitignore/blob/master/Global/macOS.gitignore
 # General
